@@ -1,28 +1,28 @@
 {
-	"ImportPath": "github.com/elastic/packetbeat",
+	"ImportPath": "github.com/johann8384/packetbeat",
 	"GoVersion": "go1.4.2",
 	"Packages": [
 		"./..."
 	],
 	"Deps": [
 		{
-			"ImportPath": "github.com/elastic/libbeat/common",
+			"ImportPath": "github.com/johann8384/libbeat/common",
 			"Rev": "08435d37ffccd04ac169a322bd6d1b0ca551a843"
 		},
 		{
-			"ImportPath": "github.com/elastic/libbeat/filters",
+			"ImportPath": "github.com/johann8384/libbeat/filters",
 			"Rev": "08435d37ffccd04ac169a322bd6d1b0ca551a843"
 		},
 		{
-			"ImportPath": "github.com/elastic/libbeat/logp",
+			"ImportPath": "github.com/johann8384/libbeat/logp",
 			"Rev": "08435d37ffccd04ac169a322bd6d1b0ca551a843"
 		},
 		{
-			"ImportPath": "github.com/elastic/libbeat/outputs",
+			"ImportPath": "github.com/johann8384/libbeat/outputs",
 			"Rev": "08435d37ffccd04ac169a322bd6d1b0ca551a843"
 		},
 		{
-			"ImportPath": "github.com/elastic/libbeat/publisher",
+			"ImportPath": "github.com/johann8384/libbeat/publisher",
 			"Rev": "08435d37ffccd04ac169a322bd6d1b0ca551a843"
 		},
 		{

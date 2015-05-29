@@ -3,7 +3,7 @@ package nop
 import (
 	"testing"
 
-	"github.com/elastic/libbeat/common"
+	"github.com/johann8384/libbeat/common"
 
 	"github.com/stretchr/testify/assert"
 )

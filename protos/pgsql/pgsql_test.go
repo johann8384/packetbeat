@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elastic/libbeat/common"
-	"github.com/elastic/libbeat/logp"
+	"github.com/johann8384/libbeat/common"
+	"github.com/johann8384/libbeat/logp"
 
-	"github.com/elastic/packetbeat/protos"
+	"github.com/johann8384/packetbeat/protos"
 )
 
 func PgsqlModForTests() *Pgsql {

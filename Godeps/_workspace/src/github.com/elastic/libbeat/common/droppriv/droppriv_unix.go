@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"syscall"
 
-	"github.com/elastic/libbeat/logp"
+	"github.com/johann8384/libbeat/logp"
 )
 
 type RunOptions struct {

@@ -47,7 +47,7 @@ simply set it to your home directory (`export GOPATH=$HOME`).
 
     $ mkdir -p $GOPATH/src/github.com/elastic
     $ cd $GOPATH/src/github.com/elastic
-    $ git clone https://github.com/elastic/packetbeat.git
+    $ git clone https://github.com/johann8384/packetbeat.git
 
 To build Packetbeat successfully, first you need to get all the Go
 dependencies:

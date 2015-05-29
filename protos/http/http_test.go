@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elastic/libbeat/logp"
+	"github.com/johann8384/libbeat/logp"
 	"github.com/stretchr/testify/assert"
 )
 

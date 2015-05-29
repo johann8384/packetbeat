@@ -7,7 +7,7 @@ Please contact us on the https://discuss.elastic.co/c/beats/packetbeat[forums].
 We will help you troubleshoot the problem you are facing.
 
 If you are sure you found a bug, you can also open a ticket on
-https://github.com/elastic/packetbeat/issues?state=open[GitHub]. Note, however,
+https://github.com/johann8384/packetbeat/issues?state=open[GitHub]. Note, however,
 that we close GitHub issues if they are questions or requests for help that
 don't indicate the presence of a bug.
 

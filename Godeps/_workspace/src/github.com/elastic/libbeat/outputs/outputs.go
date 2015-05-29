@@ -3,7 +3,7 @@ package outputs
 import (
 	"time"
 
-	"github.com/elastic/libbeat/common"
+	"github.com/johann8384/libbeat/common"
 )
 
 type MothershipConfig struct {

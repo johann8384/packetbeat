@@ -3,8 +3,8 @@ package tcp
 import (
 	"testing"
 
-	"github.com/elastic/libbeat/common"
-	"github.com/elastic/packetbeat/protos"
+	"github.com/johann8384/libbeat/common"
+	"github.com/johann8384/packetbeat/protos"
 
 	"github.com/stretchr/testify/assert"
 )

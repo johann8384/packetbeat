@@ -1,10 +1,10 @@
 package config
 
 import (
-	"github.com/elastic/libbeat/common/droppriv"
-	"github.com/elastic/libbeat/outputs"
-	"github.com/elastic/libbeat/publisher"
-	"github.com/elastic/packetbeat/procs"
+	"github.com/johann8384/libbeat/common/droppriv"
+	"github.com/johann8384/libbeat/outputs"
+	"github.com/johann8384/libbeat/publisher"
+	"github.com/johann8384/packetbeat/procs"
 )
 
 type Config struct {

@@ -5,13 +5,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elastic/libbeat/common"
-	"github.com/elastic/libbeat/logp"
+	"github.com/johann8384/libbeat/common"
+	"github.com/johann8384/libbeat/logp"
 
-	"github.com/elastic/packetbeat/config"
-	"github.com/elastic/packetbeat/procs"
-	"github.com/elastic/packetbeat/protos"
-	"github.com/elastic/packetbeat/protos/tcp"
+	"github.com/johann8384/packetbeat/config"
+	"github.com/johann8384/packetbeat/procs"
+	"github.com/johann8384/packetbeat/protos"
+	"github.com/johann8384/packetbeat/protos/tcp"
 )
 
 // Packet types

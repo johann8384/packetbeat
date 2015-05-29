@@ -3,9 +3,9 @@ package main
 import (
 	"testing"
 
-	"github.com/elastic/libbeat/common"
-	"github.com/elastic/libbeat/filters"
-	"github.com/elastic/libbeat/filters/nop"
+	"github.com/johann8384/libbeat/common"
+	"github.com/johann8384/libbeat/filters"
+	"github.com/johann8384/libbeat/filters/nop"
 
 	"github.com/stretchr/testify/assert"
 )

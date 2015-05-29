@@ -7,12 +7,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/elastic/libbeat/common"
-	"github.com/elastic/libbeat/logp"
-	"github.com/elastic/libbeat/outputs"
-	"github.com/elastic/libbeat/outputs/elasticsearch"
-	"github.com/elastic/libbeat/outputs/fileout"
-	"github.com/elastic/libbeat/outputs/redis"
+	"github.com/johann8384/libbeat/common"
+	"github.com/johann8384/libbeat/logp"
+	"github.com/johann8384/libbeat/outputs"
+	"github.com/johann8384/libbeat/outputs/elasticsearch"
+	"github.com/johann8384/libbeat/outputs/fileout"
+	"github.com/johann8384/libbeat/outputs/redis"
 	"github.com/nranchev/go-libGeoIP"
 )
 
